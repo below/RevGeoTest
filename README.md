@@ -1,7 +1,7 @@
 # RevGeoTest
 
 
-## What am I ultimate trying to achive?
+## What am I ultimately trying to achive?
 
 For an app, I need to reverse-geocode two different locations in one view. The locations arrive asynchronously, so I can not say if, when, or in which order they arrive.
 
